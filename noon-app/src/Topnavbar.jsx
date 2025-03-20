@@ -3,7 +3,7 @@
 function Topnavbar() {
   return (
     <>
-    <div className=" flex justify-between p-2" style={{backgroundColor: "rgb(254, 238, 0)"}}>
+    <div className=" flex flex-wrap justify-between p-2" style={{backgroundColor: "rgb(254, 238, 0)"}}>
       <div className="m-2">
         <img src="https://f.nooncdn.com/s/app/com/noon/design-system/logos/noon-logo-en.svg" alt="logo" width={120} />
       </div>

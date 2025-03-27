@@ -10,7 +10,8 @@ import Moreonfaishon from './Components/moreonfaishon.jsx'
 import Footer from './Components/Footer.jsx'
 import Helpcenter from './Components/helpcenter.jsx'
 import Prodctsfooter from './Components/productsfooter.jsx'
-
+import Contactus from './Components/contactfooter.jsx'
+import Finalfooter  from './Components/finalfooter.jsx'
 
 
 createRoot(document.getElementById('root')).render(
@@ -24,6 +25,8 @@ createRoot(document.getElementById('root')).render(
     <Footer />
     <Helpcenter />
     <Prodctsfooter />
+    <Contactus />
+    <Finalfooter />
   </>
 )
 

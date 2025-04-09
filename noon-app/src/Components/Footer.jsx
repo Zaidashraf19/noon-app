@@ -1,4 +1,4 @@
-function footer(){
+function Footer(){
     return(
         <>
             <br />
@@ -31,4 +31,4 @@ function footer(){
         </>
     )
 }
-export default footer
+export default Footerooter
